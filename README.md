@@ -9,10 +9,11 @@ This is a framework to make choose-your-own adventure games, much like [The Wors
 ## What does the current version do?
 
 The framework currently can control the following elements:
-	* Buttons
-	* Textbox Input
-	* Any content (pictures, text, etc.)
-	* Background color
++ Buttons
++ Textbox Input
++ Any content (pictures, text, etc.)
++ Background color
+
 As time goes on, more features are sure to be added. Suggestions are welcome!
 
 ## Licensing
